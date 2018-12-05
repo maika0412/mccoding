@@ -1,0 +1,22 @@
+.header{
+	width: 200%;
+}
+
+.wrapper{
+	width: 970px;
+	margin: 30px auto 40px;
+}
+
+.main{
+	display: block;
+	float: left;
+	width: 660px;
+}
+
+.sidemenue{
+	float: right;
+	width: 275px;
+}
+.footer{
+	width: 100%;
+}
